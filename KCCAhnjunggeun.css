@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'KCC Ahnjunggeun';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.woff2') format('woff2');
+}
