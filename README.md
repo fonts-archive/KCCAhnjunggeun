@@ -15,7 +15,7 @@ font-family: 'KCC Ahnjunggeun';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCAhnjunggeun/KCCAhnjunggeun.css" type="text/css"/>
 ```
 
 &nbsp;
